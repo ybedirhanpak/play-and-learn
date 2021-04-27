@@ -1,0 +1,32 @@
+.header1 {
+  font-size: 60px !important;
+}
+
+.header2 {
+  font-size: 24px !important;
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.content-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  padding: 90px 80px 90px 30px;
+  transform: translate(0px, -80px);
+}
+
+.ct-button {
+  margin: 0;
+  width: 50%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.low-fade {
+  background: rgba(0,0,0, 0.4) !important;
+}
